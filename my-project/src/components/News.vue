@@ -1,8 +1,6 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h2>Essential Links</h2>
-    <h2>Ecosystem</h2>
     <el-row>
       <el-button>Default</el-button>
       <el-button type="primary">Primary</el-button>
